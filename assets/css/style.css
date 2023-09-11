@@ -117,31 +117,31 @@ main>div {
     text-decoration: none;
 }
 
-.sign_up {
+.assine {
     color: #737373;
     font-size: 16px;
 }
 
-.sign_up a {
+.assine a {
     color: #fff;
     font-size: 16px;
     text-decoration: none;
 }
 
-.sign_up a:hover {
+.assine a:hover {
     text-decoration: underline;
 }
 
-.terms {
+.termos {
     color: #737373;
     font-size: 13px;
 }
 
-.terms a {
+.termos a {
     text-decoration: none;
     color: #0071eb;
 }
 
-.terms a:hover {
+.termos a:hover {
     text-decoration: underline;
 }
